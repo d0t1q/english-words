@@ -6,12 +6,17 @@ Fixed version of https://github.com/dwyl/english-words
 Merged all the files into 3 specific file types for easier use 
 
 1. sorted_merged	- Line numbers = 1070701
+
     This file contains all of the original 3 files merged into one and
     then sorted, this file is Upper and lower case so there is duplicates.
+    
 2. lower_no-dups	- Line numbers = 466920
+
     This version has all of the words converted to lower case and then the
     duplicates removed, useful for when application isnt case sensitive
+    
 3. lower_no-dups-no-sym	- Line numbers = 466920
+
     same as the previous file but all symblos have been removed, this 
     file contains only alphanumeric values
 
